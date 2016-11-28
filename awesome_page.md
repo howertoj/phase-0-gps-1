@@ -18,4 +18,6 @@ Check it out!
 
 https://github.com/jackhowerton/phase-0-gps-1/blob/master/Screen%20Shot%202016-11-27%20at%207.11.32%20PM.png
 
-different change
+
+slight change
+
